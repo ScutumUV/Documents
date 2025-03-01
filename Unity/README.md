@@ -1,4 +1,4 @@
-Unity相关的书籍国内倒是有些，但是从我大学几年看的书来看，仅仅个别还不错，大部分还是和其他计算机书籍一样。。。
+# Unity相关的书籍或文档
 
 ## 高级Unity游戏开发（Advanced Unity Game Development）
 
@@ -355,6 +355,14 @@ Unity相关的书籍国内倒是有些，但是从我大学几年看的书来看
 ![img](https://pic3.zhimg.com/80/v2-ff346a8cda871f261feb47c35ede90db_720w.jpeg?source=d16d100b)
 
 
+
+ 
+
+  
+
+## 《Unity游戏设计与实现》— [日]加藤政树
+
+![img](https://img1.doubanio.com/view/subject/l/public/s27995300.jpg)
 
 
 
